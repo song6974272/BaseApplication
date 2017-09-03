@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseApplication</string>
+    <string name="none_net_availabel">当前没有可用网络,请检查网络设置</string>
+</resources>
